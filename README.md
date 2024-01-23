@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://www.sencha.com/wp-content/uploads/2023/10/Untitled-design-37-300x169.png.webp " height="275px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F15641580-Women-working-on-a-laptop&psig=AOvVaw29fD0vT-cFj3bUHfgPQ1Pr&ust=1706091543387000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLj8urqk84MDFQAAAAAdAAAAABAD " height="275px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mahak</h1>
 <h3 align="center">I'm a passionate Developer from India.</h3>
