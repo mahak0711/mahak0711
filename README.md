@@ -86,7 +86,7 @@ Hi, my name is Mahak Kankaria, I'm a Frontend Developer from India.
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahak-kankaria-9252a324a/)
-[![image](https://img.shields.io/badge/UIverse-04A4FB?style=for-the-badge&logo=brave&logoColor=white)](https://bitlie.deri.my.id/uiverse)
+
   
 </div>
 
