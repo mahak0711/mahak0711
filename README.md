@@ -19,7 +19,7 @@ new Person({
 ```
 
 ```cmd
-D:\Deri-Kurniawan> node index.js
+D:\mahak0711> node index.js
 Hi, my name is Mahak Kankaria, I'm a Frontend Developer from India.
 ```
 
