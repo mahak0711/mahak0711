@@ -91,9 +91,6 @@ Hi, my name is Mahak Kankaria, I'm a Frontend Developer from India.
 </div>
 
 
-
-![Commit Snake History SVG](https://raw.githubusercontent.com/mahak0711/mahak0711/output/github-snake.svg)
-
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
