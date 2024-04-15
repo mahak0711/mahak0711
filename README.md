@@ -65,7 +65,7 @@ Hi, my name is Mahak Kankaria, I'm a Frontend Developer from India.
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
-<h3 align="center">⭐My Favorite Repo⭐</h3>
+<!--<h3 align="center">⭐My Favorite Repo⭐</h3>
 
 <div>
   <p align="center">
