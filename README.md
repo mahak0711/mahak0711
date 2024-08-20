@@ -14,7 +14,7 @@ import { Person } from 'India';
 new Person({
     name   : 'Mahak Kankaria',
     title  : 'Frontend Developer',
-    email  : 'mahakkankaria@gmail.com',
+    email  : 'kankariamahak7@gmail.com',
 }).introduce();
 ```
 
