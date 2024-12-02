@@ -50,7 +50,7 @@ Hi, my name is Mahak Kankaria, I'm a Frontend Developer from India.
 <!--tech stack icons-->
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,php,react,nextjs,nodejs,express,mysql,git,vscode,figma,vite&perline=6" />
+<img src="https://skillicons.dev/icons?i=js,tailwindcss,react,postgresql,nodejs,express,mysql,git,figma,vite,typescript&perline=6" />
 </a>
 </p>
 
