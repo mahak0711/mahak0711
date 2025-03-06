@@ -50,7 +50,7 @@ Hi, my name is Mahak Kankaria, I'm a Frontend Developer from India.
 <!--tech stack icons-->
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,tailwindcss,react,postgresql,nodejs,express,mysql,git,figma,vite,typescript,nextjs,prisma,firebase,html,css,c,cpp,androidstudio&perline=6" />
+<img src="https://skillicons.dev/icons?i=js,tailwindcss,react,postgresql,nodejs,express,mysql,git,figma,vite,typescript,nextjs,prisma,firebase,html,css,c,cpp,androidstudio,docker&perline=6" />
 </a>
 </p>
 
@@ -60,8 +60,7 @@ Hi, my name is Mahak Kankaria, I'm a Frontend Developer from India.
 <h3 align="center">🔥Streak Stats🔥</h3>
 
 <!-- custom streak stats: https://git.io/streak-stats -->
-<p align="center"><img src="https://streak-stats.demolab.com?user=mahak0711&hide_border=true&type=png" alt="mahak0711" /></p>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mahak0711)](https://git.io/streak-stats)
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
