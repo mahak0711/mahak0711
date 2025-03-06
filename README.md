@@ -60,8 +60,10 @@ Hi, my name is Mahak Kankaria, I'm a Frontend Developer from India.
 <h3 align="center">🔥Streak Stats🔥</h3>
 
 <!-- custom streak stats: https://git.io/streak-stats -->
+<div align="center">
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mahak0711)
-<!--x axis divider-->
+</div>
+	<!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
 <!--<h3 align="center">⭐My Favorite Repo⭐</h3>
