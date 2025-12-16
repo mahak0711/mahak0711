@@ -30,9 +30,6 @@ Hi, my name is Mahak Kankaria, I'm a Frontend Developer from India.
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
-
-
- Last Updated on 15-04-2024 12:42:21 UTC
 <!--END_SECTION:waka-->
   
 
