@@ -26,7 +26,7 @@ Hi, my name is Mahak Kankaria, I'm a Frontend Developer from India.
     
 ![Followers](https://img.shields.io/github/followers/mahak0711?label=Followers) 
 ![Stars](https://img.shields.io/github/stars/mahak0711?label=Stars)
-
+</div>
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
