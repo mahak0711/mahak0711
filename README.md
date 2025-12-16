@@ -1,11 +1,10 @@
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
-<picture> 
-<a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer" />
+</p>
 
-</a>
-</picture>
 
 ```js
 "use creativity";
